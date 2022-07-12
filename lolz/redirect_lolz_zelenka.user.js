@@ -2,7 +2,7 @@
 // @name          Автоматический редирект с Lolz.guru на Zelenka.guru
 // @description	  Для тех, кому очень нравится новый домен :)
 // @author        1member1
-// @homepage      https://github.com/1member1/
+// @homepage      https://github.com/1member1/some-shit/blob/main/lolz/redirect_lolz_zelenka.user.js
 // @include       http://lolz.guru/*
 // @include       https://lolz.guru/*
 // @include       http://*.lolz.guru/*
